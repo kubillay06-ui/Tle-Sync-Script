@@ -4,6 +4,8 @@ Hem **Windows** hem **Linux** terminal ortamlarında çalışacak şekilde tasar
 
 
 
+
+
 📷 Proje Amacı
 
 Bu script, TLE formatındaki uydu verilerinin manuel olarak indirilmesi veya güncellenmesi sürecini otomatikleştirmek için tasarlanmıştır.
@@ -32,4 +34,12 @@ gibi projelerde hızlı ve düzenli veri güncellemesi sağlar.
 - Dosya okuma / yazma işlemleri
 - Veri işleme ve doğrulama mantıkları
 
+
+
+<img width="1310" height="936" alt="Ekran görüntüsü 2025-12-07 135656" src="https://github.com/user-attachments/assets/bcd5cea9-2901-4c91-809e-c33c29164016" />
+
+📌 Terminal Çıktısı Açıklaması
+
+Bu çıktı, scriptin internet üzerinden TLE verilerini başarıyla çektiğini, uydu isimlerini doğru şekilde işlediğini ve her uyduya ait iki satırlık TLE formatının terminalde düzenli olarak gösterildiğini göstermektedir.
+Her veri seti alındıktan sonra ilgili TLE dosyasına kaydedilir ve varsa güncellemeler otomatik olarak yapılır. Bu sayede uydu verileri her çalıştırmada güncel kalır.
 

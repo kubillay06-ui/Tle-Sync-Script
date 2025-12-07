@@ -6,17 +6,17 @@ Hem **Windows** hem **Linux** terminal ortamlarında çalışacak şekilde tasar
 
 
 
-📷 Proje Amacı
+🎯 Proje Amacı
 
 Bu script, TLE formatındaki uydu verilerinin manuel olarak indirilmesi veya güncellenmesi sürecini otomatikleştirmek için tasarlanmıştır.
 
-Uydu takip yazılımları
+- Uydu takip yazılımları
 
-Simülasyon sistemleri
+- Simülasyon sistemleri
 
-Konum belirleme uygulamaları
+- Konum belirleme uygulamaları
 
-gibi projelerde hızlı ve düzenli veri güncellemesi sağlar.
+- projelerde hızlı ve düzenli veri güncellemesi sağlar.
 
 
 
@@ -35,8 +35,17 @@ gibi projelerde hızlı ve düzenli veri güncellemesi sağlar.
 - Veri işleme ve doğrulama mantıkları
 
 
+  
 
-<img width="1310" height="936" alt="Ekran görüntüsü 2025-12-07 135656" src="https://github.com/user-attachments/assets/bcd5cea9-2901-4c91-809e-c33c29164016" />
+
+
+📷  Terminal Çıktısı
+
+ 
+<img width="521" height="602" alt="Ekran görüntüsü 2025-12-07 140509" src="https://github.com/user-attachments/assets/5e96026c-4149-4820-bef7-edf3d19ec42c" />
+
+
+
 
 📌 Terminal Çıktısı Açıklaması
 

@@ -1,12 +1,14 @@
 # TLE Sync Script  
 Uydu konum belirleme sistemlerinde kullanılan **TLE (Two-Line Element) verilerini internet üzerinden otomatik olarak çekmek, güncellemek ve senkronize etmek için geliştirilmiş bir script aracıdır.
 Hem **Windows** hem **Linux** terminal ortamlarında çalışacak şekilde tasarlanmıştır.
+#
 
 
 
 
 
-🎯 Proje Amacı
+
+## 🎯 Proje Amacı
 
 Bu script, TLE formatındaki uydu verilerinin manuel olarak indirilmesi veya güncellenmesi sürecini otomatikleştirmek için tasarlanmıştır.
 
@@ -39,7 +41,7 @@ Bu script, TLE formatındaki uydu verilerinin manuel olarak indirilmesi veya gü
 
 
 
-📷  Terminal Çıktısı
+ ## 📷  Terminal Çıktısı
 
  
 <img width="521" height="602" alt="Ekran görüntüsü 2025-12-07 140509" src="https://github.com/user-attachments/assets/5e96026c-4149-4820-bef7-edf3d19ec42c" />
@@ -47,7 +49,7 @@ Bu script, TLE formatındaki uydu verilerinin manuel olarak indirilmesi veya gü
 
 
 
-📌 Terminal Çıktısı Açıklaması
+## 📌 Terminal Çıktısı Açıklaması
 
 Bu çıktı, scriptin internet üzerinden TLE verilerini başarıyla çektiğini, uydu isimlerini doğru şekilde işlediğini ve her uyduya ait iki satırlık TLE formatının terminalde düzenli olarak gösterildiğini göstermektedir.
 Her veri seti alındıktan sonra ilgili TLE dosyasına kaydedilir ve varsa güncellemeler otomatik olarak yapılır. Bu sayede uydu verileri her çalıştırmada güncel kalır.
